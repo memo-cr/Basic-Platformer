@@ -1,0 +1,35 @@
+{
+    "activeFile": "unbenannt.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "map/tilemap_packed.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "unbenannt.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 322.25,
+                "y": 276.5
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/beybl/OneDrive/Desktop/programmieren/Spiele/pygame/hollow knight copy/map/pixel-line-platformer/Tilemap",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "unbenannt.tmx",
+        "map/tilemap_packed.tsx"
+    ],
+    "project": "test-level.tiled-project",
+    "recentFiles": [
+        "map/tilemap_packed.tsx",
+        "unbenannt.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
